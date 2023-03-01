@@ -1,0 +1,251 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+.container{
+    height: 800vh;
+    
+}
+nav ul li{
+    padding: 10px 20px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    
+    
+}
+.nav{
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-top: 10px;
+}
+.button{
+    background-color:black;
+    color: papayawhip;
+    padding: 15px 25px;  
+}
+.h2{
+    font-size: 50px;
+    margin-left: 100px;
+}
+#h3{
+    font-size: 50px;
+    margin-left: 100px;
+}
+.p1{
+    margin-left: 90px;
+    font-size: larger;
+}
+.p2{
+    margin-left: 90px;
+    font-size: larger;
+}
+.p3{
+    margin-left: 90px;
+    font-size: larger;
+}
+.but2{
+    background-color: black;
+    color: white;
+    margin-left: 90px;
+    padding: 10px 25px;
+}
+.image1 img{
+    margin-left: 30%;
+    width: 400px;
+    height: 300px;
+    margin-top: -15%;
+
+}
+.image2 img{
+    margin-left: 5%;
+    margin-top: -8%;
+    height: 40vh;
+    
+}
+.image3 img{
+    margin-left: 30%;
+    width: 15%;
+    margin-top: -15%;
+}
+.image4 img{
+    margin-left: 49%;
+    width: 11%;
+    margin-top: -40%;
+}
+.h5{
+    font-size: xx-large;
+    text-align: center;
+}
+.li{
+    font-size: xx-large;
+    text-align: center;
+    list-style-type: none;
+    
+}
+.ad{
+    background-color: whitesmoke;
+    width: 18%;
+    text-align: center;
+    margin-left: 18%;
+}
+#p{
+    font-size:xx-large;
+}
+.assuarance{
+    background-color: whitesmoke;
+    width: 18%;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: -24%;
+    
+}
+#p2{
+    font-size: xx-large;
+}
+.standard{
+    background-color: whitesmoke;
+    width: 20%;
+    text-align: center;
+    margin-left: 63%;
+    margin-top: -23%;
+    height: 39vh;
+}
+#p3{
+    font-size: xx-large;
+}
+.content{
+    background-color: whitesmoke;
+    margin-left: 60px;
+
+}
+.if{
+    font-size: xx-large;
+}
+
+.more{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+}
+.bit2 img{
+    margin-left: 50%;
+    margin-top: -60%;
+}
+.bit3 img{
+    margin-left: 60%;
+    margin-top: -60%;
+
+}
+.design{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.seat{
+    margin-left: 10%;
+}
+.seat2{
+    margin-left: 35%;
+    margin-top: -18%;
+}
+.seat3{
+    margin-left: 60%;
+    margin-top: -17%;
+}
+.statement{
+    margin-left: 30%;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.chair1 img{
+    margin-left: 20%;
+}
+.classic {
+    margin-left: 40%;
+    margin-top: -18%;
+    width: 30px;
+}
+.interior img{
+    margin-left: 20%;
+    margin-top: -20%;
+}
+.chair2 {
+    margin-left: 44%;
+}
+.viewbt{
+    margin-left: 40%;
+    background-color: black;
+    color: white;
+    border-color: black;
+    padding: 10px 20px;
+}
+.subscribe{
+    background-color: darkgray;
+    width: 60%;
+    height: 70vh;
+    margin-left: 15%;
+    padding-left: 60px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.space{
+    background-color: black;
+    color: snow ;
+    padding: 7px 8px;
+}
+.future{
+    margin-left: 50%;
+    margin-top: -20%;
+}
+.copy{
+    margin-left: 15%;
+    font-size: small;
+    margin-top: 5%;
+}
+.help{
+    margin-left: 35%;
+    margin-top: -8%;
+    font-size: small;
+    
+}
+.support{
+    margin-left:45% ;
+    margin-top: -8%;
+    font-size: small;
+    
+}
+.app{
+    margin-left:53%;
+    margin-top: -10%;
+    font-size: small;
+}
+.h3{
+    font-size: xx-large;
+
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
